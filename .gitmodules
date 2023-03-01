@@ -1,0 +1,21 @@
+[submodule "destination-dhis2"]
+	path = destination-dhis2
+	url = git@github.com:onaio/destination-dhis2.git
+[submodule "source-ona-data"]
+	path = source-ona-data
+	url = git@github.com:onaio/source-ona-data.git
+[submodule "source-hapi-fhir-server"]
+	path = source-hapi-fhir-server
+	url = git@github.com:onaio/source-hapi-fhir-server.git
+[submodule "source-zoho-subscriptions"]
+	path = source-zoho-subscriptions
+	url = git@github.com:onaio/source-zoho-subscriptions.git
+[submodule "source-unicef-invent-api"]
+	path = source-unicef-invent-api
+	url = git@github.com:onaio/source-unicef-invent-api.git
+[submodule "source-dha-api"]
+	path = source-dha-api
+	url = git@github.com:onaio/source-dha-api.git
+[submodule "source-dhs-api"]
+	path = source-dhs-api
+	url = git@github.com:onaio/source-dhs-api.git
