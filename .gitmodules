@@ -16,3 +16,6 @@
 [submodule "source-dha-api"]
 	path = source-dha-api
 	url = git@github.com:onaio/source-dha-api.git
+[submodule "source-dhs-api"]
+	path = source-dhs-api
+	url = git@github.com:onaio/source-dhs-api.git
