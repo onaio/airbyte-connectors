@@ -4,3 +4,6 @@
 [submodule "source-ona-data"]
 	path = source-ona-data
 	url = git@github.com:onaio/source-ona-data.git
+[submodule "source-hapi-fhir-server"]
+	path = source-hapi-fhir-server
+	url = git@github.com:onaio/source-hapi-fhir-server.git
