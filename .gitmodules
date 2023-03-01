@@ -1,3 +1,6 @@
 [submodule "destination-dhis2"]
 	path = destination-dhis2
 	url = git@github.com:onaio/destination-dhis2.git
+[submodule "source-ona-data"]
+	path = source-ona-data
+	url = git@github.com:onaio/source-ona-data.git
