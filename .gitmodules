@@ -7,3 +7,6 @@
 [submodule "source-hapi-fhir-server"]
 	path = source-hapi-fhir-server
 	url = git@github.com:onaio/source-hapi-fhir-server.git
+[submodule "source-zoho-subscriptions"]
+	path = source-zoho-subscriptions
+	url = git@github.com:onaio/source-zoho-subscriptions.git
