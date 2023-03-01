@@ -13,3 +13,6 @@
 [submodule "source-unicef-invent-api"]
 	path = source-unicef-invent-api
 	url = git@github.com:onaio/source-unicef-invent-api.git
+[submodule "source-dha-api"]
+	path = source-dha-api
+	url = git@github.com:onaio/source-dha-api.git
