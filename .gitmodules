@@ -10,3 +10,6 @@
 [submodule "source-zoho-subscriptions"]
 	path = source-zoho-subscriptions
 	url = git@github.com:onaio/source-zoho-subscriptions.git
+[submodule "source-unicef-invent-api"]
+	path = source-unicef-invent-api
+	url = git@github.com:onaio/source-unicef-invent-api.git
